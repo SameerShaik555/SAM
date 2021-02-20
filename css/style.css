@@ -47,7 +47,7 @@ img {
 }
 /* navbar */
 .navbar{
-   background-color: red;
+   background-color: #15f4ee;
    color: #fff;
    height:70px;
 }
@@ -68,7 +68,7 @@ img {
 
 .showcase {
   height: 400px;
-  background-color:red ;
+  background-color:#15f4ee ;
   color: #fff;
   position: relative;
 }
@@ -127,7 +127,7 @@ img {
   bottom: -70px;
   right: 0;
   left: 0;
-  background-color: greenyellow;
+  background-color: red;
   transform: skewY(-3deg);
   -webkit-transform: skewY(-3deg);
   -moz-transform: skewY(-3deg);
@@ -195,13 +195,13 @@ animation: slideInFromBottom 1s ease-in;
 /* background colour button */
 .bg-primary,
 .btn-primary {
-  background-color: red;
+  background-color: #15f4ee;
   color: #fff;
 }
 
 .bg-secondary,
 .btn-secondary {
-  background-color: darkgreen;
+  background-color: red;
   color: #fff;
 }
 
